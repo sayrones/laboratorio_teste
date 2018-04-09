@@ -24,7 +24,8 @@ Faça o que se pede:
    3.6 - verifique o log dos itens de configuração das alterações realizadas no branch.
    3.7 - Exclua o branch criado.
 
-4) Realizar agora em duplas os seguintes cenários de desenvolvimento utilizando a combinação do GIT e GITHUB, tomando como projeto uma pequena aplicação escrita em Java, ou aplicação Web para realizar as seguintes atividades a seguir:
+4) Realizar agora em duplas os seguintes cenários de desenvolvimento utilizando a combinação do GIT e GITHUB, 
+tomando como projeto uma pequena aplicação escrita em Java, ou aplicação Web para realizar as seguintes atividades a seguir:
 
    4.1) Adicionar os arquivos do projeto em um novo repositório no GIT local da estação de trabalho de cada  
         membro da dupla de programadores.
